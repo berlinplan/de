@@ -79,65 +79,372 @@ Handlung auf der Grundlage günstiger Ergebnisse beurteilen. Allerdings rechtfer
  
 6.3	Kann eine Abstimmungs-App mit benutzerdefinierten Werten die institutionalisierte Religion abschaffen?
 Das Dilemma:
-Einer töten, um mehrere andere zu retten	Ende: 7 retten	• Moralisch: Aufgrund der Gesellschaftsentscheidung in der App
-• Unmoralisch: Gesellschaftsentscheidung: Das Töten verursacht mehr Schaden als das Unterlassen der Rettung.
-	Mittel: einen töten	
-
-Einer töten, um die Menschheit zu retten	Ende: Menschheit retten	• Moralisch: Eine Notsituation löst eine App-Benachrichtigung aus, damit alle Menschen auf dem Planeten wählen können.
-• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der App.
-	Mittel: einen töten	
-
-Olympische Sportwettbewerbe	Ende: Stoltz durch Sieg	• Moralisch: Alle Maßnahmen, um gesellschaftlichen Stolz zu erlangen, sind akzeptabel.
-• Unmoralisch: Bei den heutigen Sportwettkämpfen besteht für junge Sportler ein erhöhtes Risiko von Überlastungsverletzungen aufgrund der Spezialisierung, während die Kommerzialisierung Sportler zu Marketingprodukten macht. Spielmanipulationen und Doping lassen Zweifel an der Integrität der Ergebnisse aufkommen, da bei Turnieren auf höchstem Niveau Rentabilität Vorrang vor Fairness hat. (194)
-	Mittel: Gegner aus armen Ländern wettkampfmäßig zu schlagen, sei es mit Doping oder mit Kindertrainingsterror.	
-
-Transgender im Frauen Sportwettbewerbe lassen	Ende: Gender Gerechtigkeit	• Moralisch: Alle Maßnahmen, um gesellschaftlichen Stolz zu erlangen, sind akzeptabel.
-• Unmoralisch: da kommerzialisierte Sportwettbewerbe unmoralisch.
-	Mittel: Transgender in Frauensport (193)	
-
-Einen Bombenleger foltern	Ende: Bombe entschärfen, Ihre Familie und 1000 andere retten.	• Moralisch: Eine begrenzte Folter zur Informationsbeschaffung ist akzeptabel, aber nicht länger.
-• Unmoralisch: Folter ist immer falsch.
-	Mittel: In 10 Stunden mit effektiven Foltermethoden Informationen von einem Terroristen gewinnen, mit einer Erfolgsquote von 80%.	
-
-Fremder Fenster einschlagen, um den Hund zu retten	Ende: Eingesperrten Hund aus dem Auto retten.	• Moralisch: Ein Leben nicht zu retten ist schädlicher als das Betreten eines privaten Raums. Nur notwendiger Schaden ist gerechtfertigt, etwa das Einschlagen des Fensters, um den Hund zu retten, aber das ganze Auto in Brand zu setzen, ist nicht richtig.
-• Unmoralisch: Eigentum andere zu beschädigen ist unmoralisch.
-	Mittel: Autofenster einschlagen, Privatraum betreten.	
-
-Unehrlichkeit bei Wahlen	Ende: Leben retten	• Moralisch: Alle Maßnahmen, um Macht zu erlangen um anderen zu helfen, sind akzeptabel.
-• Unmoralisch: Der Schaden, der durch systematisches Lügen bei Wahlen verursacht wird, überwiegt jeden potenziellen Nutzen der späteren Rettung von Leben.
-	Mittel: Lügen 	
-
-Atomic Freedom	Ende: einen möglichen Krieg verhindern und Millionen retten	• Moralisch: Wenn die Mehrheit Alle Menschen es für das Beste hält, ist der Einsatz von Atombomben gegen Zivilisten moralisch gerechtfertigt.
-• Unmoralisch: Der Schaden, der durch einen Atomkrieg verursacht wird, überwiegt jeden potenziellen Nutzen.
-	Mittel: Tausende Zivilisten mit einer Atombombe töten	
-
-Professioneller dünner Boxer	Ende: Unterhaltung	• Moralisch: wenn der Passant es freiwillig zugestimmt hat, dann ist er selber schuld.
-• Unmoralisch: Menschen ins Koma zu schlagen, auch mit deren Zustimmung, ist unmoralisch.
-	Mittel: sich einem zufälligen Passanten auf der Straße nähern und ihn schlagen, bis er ins Koma fällt, nachdem man dessen Zustimmung für ein Kampf eingeholt hat.	
-
-Hightech durch Sklaverei	Ende: Krebs heilen, Hunger beseitigen	• Moralisch: Wenn die Mehrheit, darunter auch Menschen in verarmten Regionen des Nahen Ostens, Afrikas, Südamerikas und Südasiens, denen es an angemessener Infrastruktur für luxuriöse selbstfahrende Elektrofahrzeuge mangelt, bereitwillig akzeptiert, zum Nutzen einiger weniger ausgebeutet zu werden, dann wird es als moralisch vertretbar angesehen, dies zu tun.
-• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der App
-	Mittel: High-Tech-Fortschritt, der auf Ausbeutung und Ungleichheit beruht.	
-
-Döner Terrorist	Ende: Verbreitung der Demokratie in anderen Ländern.	• Moralisch: Aufgrund der Gesellschaftsentscheidung in der App
-• Unmoralisch: Ein anderes Land anzugreifen, um die Demokratie zu verbreiten, ist trotz übermäßiger gesellschaftlicher Einigkeit dagegen unmoralisch, sowohl für das angreifende Land als auch für seine Unterstützer, einschließlich des Dönerverkäufers.
-	Mittel: Kriege anzetteln, um ausländische Regierungen zu ändern.	
-
-YouTube Interviews	Ende: Gerechtigkeit schaffen	• Moralisch: Alle Maßnahmen, um Macht zu erlangen um Gerechtigkeit zu schaffen, sind akzeptabel.
-• Unmoralisch: Priorisierung des am wenigsten schädlichen Verhaltens zur Lösung eines Problems.
-	Mittel: verschiedene Themen bewältigen, unvorbereitete Menschen auf der Straße mit provokanten Fragen herausfordern, polarisierende Casting-Interviews und -Debatten führen und Videos nach Wunsch bearbeiten, um viralen Ruhm und Geld auf Plattformen wie YouTube, TikTok und Instagram zu erzielen.	
-
-Wider-spruch	Ende: Entwicklung einer Abstimmungs-App für Gleichberechtigung	• Moralisch: das am wenigsten schädliche Verhalten zur Erreichung der Gleichstellung.
-• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der App
-	Mittel: Diesen Inhalt ausdrucken und an Menschen auf der Straße zu verteilen oder ein breiteres Publikum erreichen, indem man mit kontroversen YouTube-Videos viral geht oder Taktiken anwendet, um es als Buch auf Plattformen wie Amazon zu einem Bestseller zu machen.	
-
-Social-Media-Aktivismus	Ende: Gerechtigkeit schaffen	• Moralisch: Social Media ist das am wenigsten schädliche Verhalten zur Erreichung der Gleichstellung.
-• Unmoralisch: Es gibt genug weniger schädliche Möglichkeiten, um die Ungleichheit zu bekämpfen, als Social-Media-Aktivismus, Debatten, Polarisierung und die Unterstützung von Unternehmen wie Google und YouTube, die Sanktionen gegen verarmte Länder verhängen. (192)
-	Mittel: Inhalte in sozialen Medien erstellen, Online-Erfolg erzielen, indem man seine Konversationsfähigkeiten verfeinert, Sophistik anwendet und die kognitiven Fähigkeiten verbessert.	
-
-Höheres Ziel durch TikTok	Ende: Ungleichheit minimieren.	• Moralisch: Das am wenigsten schädliche Verhalten zur Erreichung der Gleichstellung.
-• Unmoralisch: Es gibt genug weniger schädliche Möglichkeiten, um die Ungleichheit zu bekämpfen
-	Mittel: ein Buch über Gerechtigkeit schreiben und es bewerben und zum Bestseller auf Plattformen wie Spotify, YouTube, Instagram, Amazon, Twitter, TikTok und TV machen, und sogar Marketingtricks wie den Matthew-Effekt anwenden (141)	
+<p>Das Dilemma:</p>
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 18%" />
+<col style="width: 59%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Einer töten, um mehrere andere zu retten</th>
+<th>Ende: 7 retten</th>
+<th rowspan="2"><p>• Moralisch: Aufgrund der Gesellschaftsentscheidung
+in der App</p>
+<p>• Unmoralisch: Gesellschaftsentscheidung: Das Töten verursacht mehr
+Schaden als das Unterlassen der Rettung.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: einen töten</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 30%" />
+<col style="width: 51%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Einer töten, um die Menschheit zu retten</th>
+<th>Ende: Menschheit retten</th>
+<th rowspan="2"><p>• Moralisch: Eine Notsituation löst eine
+App-Benachrichtigung aus, damit alle Menschen auf dem Planeten wählen
+können.</p>
+<p>• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der
+App.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: einen töten</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 26%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Olympische Sportwettbewerbe</th>
+<th>Ende: Stoltz durch Sieg</th>
+<th rowspan="2"><p>• Moralisch: Alle Maßnahmen, um gesellschaftlichen
+Stolz zu erlangen, sind akzeptabel.</p>
+<p>• Unmoralisch: Bei den heutigen Sportwettkämpfen besteht für junge
+Sportler ein erhöhtes Risiko von Überlastungsverletzungen aufgrund der
+Spezialisierung, während die Kommerzialisierung Sportler zu
+Marketingprodukten macht. Spielmanipulationen und Doping lassen Zweifel
+an der Integrität der Ergebnisse aufkommen, da bei Turnieren auf
+höchstem Niveau Rentabilität Vorrang vor Fairness hat. (194)</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Gegner aus armen Ländern wettkampfmäßig zu schlagen, sei es
+mit Doping oder mit Kindertrainingsterror.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Transgender im Frauen Sportwettbewerbe lassen</th>
+<th>Ende: Gender Gerechtigkeit</th>
+<th rowspan="2"><p>• Moralisch: Alle Maßnahmen, um gesellschaftlichen
+Stolz zu erlangen, sind akzeptabel.</p>
+<p>• Unmoralisch: da kommerzialisierte Sportwettbewerbe
+unmoralisch.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Transgender in Frauensport (193)</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 52%" />
+<col style="width: 37%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Einen Bombenleger foltern</th>
+<th>Ende: Bombe entschärfen, Ihre Familie und 1000 andere retten.</th>
+<th rowspan="2"><p>• Moralisch: Eine begrenzte Folter zur
+Informationsbeschaffung ist akzeptabel, aber nicht länger.</p>
+<p>• Unmoralisch: Folter ist immer falsch.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: In 10 Stunden mit effektiven Foltermethoden Informationen
+von einem Terroristen gewinnen, mit einer Erfolgsquote von 80%.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 28%" />
+<col style="width: 52%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Fremder Fenster einschlagen, um den Hund zu retten</th>
+<th>Ende: Eingesperrten Hund aus dem Auto retten.</th>
+<th rowspan="2"><p>• Moralisch: Ein Leben nicht zu retten ist
+schädlicher als das Betreten eines privaten Raums. Nur notwendiger
+Schaden ist gerechtfertigt, etwa das Einschlagen des Fensters, um den
+Hund zu retten, aber das ganze Auto in Brand zu setzen, ist nicht
+richtig.</p>
+<p>• Unmoralisch: Eigentum andere zu beschädigen ist
+unmoralisch.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Autofenster einschlagen, Privatraum betreten.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 12%" />
+<col style="width: 70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Unehrlichkeit bei Wahlen</th>
+<th>Ende: Leben retten</th>
+<th rowspan="2"><p>• Moralisch: Alle Maßnahmen, um Macht zu erlangen um
+anderen zu helfen, sind akzeptabel.</p>
+<p>• Unmoralisch: Der Schaden, der durch systematisches Lügen bei Wahlen
+verursacht wird, überwiegt jeden potenziellen Nutzen der späteren
+Rettung von Leben.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Lügen</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 28%" />
+<col style="width: 55%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Atomic Freedom</th>
+<th>Ende: einen möglichen Krieg verhindern und Millionen retten</th>
+<th rowspan="2"><p>• Moralisch: Wenn die Mehrheit Alle Menschen es für
+das Beste hält, ist der Einsatz von Atombomben gegen Zivilisten
+moralisch gerechtfertigt.</p>
+<p>• Unmoralisch: Der Schaden, der durch einen Atomkrieg verursacht
+wird, überwiegt jeden potenziellen Nutzen.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Tausende Zivilisten mit einer Atombombe töten</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 44%" />
+<col style="width: 38%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Professioneller dünner Boxer</th>
+<th>Ende: Unterhaltung</th>
+<th rowspan="2"><p>• Moralisch: wenn der Passant es freiwillig
+zugestimmt hat, dann ist er selber schuld.</p>
+<p>• Unmoralisch: Menschen ins Koma zu schlagen, auch mit deren
+Zustimmung, ist unmoralisch.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: sich einem zufälligen Passanten auf der Straße nähern und
+ihn schlagen, bis er ins Koma fällt, nachdem man dessen Zustimmung für
+ein Kampf eingeholt hat.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 24%" />
+<col style="width: 65%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Hightech durch Sklaverei</th>
+<th>Ende: Krebs heilen, Hunger beseitigen</th>
+<th rowspan="2"><p>• Moralisch: Wenn die Mehrheit, darunter auch
+Menschen in verarmten Regionen des Nahen Ostens, Afrikas, Südamerikas
+und Südasiens, denen es an angemessener Infrastruktur für luxuriöse
+selbstfahrende Elektrofahrzeuge mangelt, bereitwillig akzeptiert, zum
+Nutzen einiger weniger ausgebeutet zu werden, dann wird es als moralisch
+vertretbar angesehen, dies zu tun.</p>
+<p>• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der
+App</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: High-Tech-Fortschritt, der auf Ausbeutung und Ungleichheit
+beruht.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 29%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Döner Terrorist</th>
+<th>Ende: Verbreitung der Demokratie in anderen Ländern.</th>
+<th rowspan="2"><p>• Moralisch: Aufgrund der Gesellschaftsentscheidung
+in der App</p>
+<p>• Unmoralisch: Ein anderes Land anzugreifen, um die Demokratie zu
+verbreiten, ist trotz übermäßiger gesellschaftlicher Einigkeit dagegen
+unmoralisch, sowohl für das angreifende Land als auch für seine
+Unterstützer, einschließlich des Dönerverkäufers.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Kriege anzetteln, um ausländische Regierungen zu
+ändern.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 51%" />
+<col style="width: 38%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">YouTube Interviews</th>
+<th>Ende: Gerechtigkeit schaffen</th>
+<th rowspan="2"><p>• Moralisch: Alle Maßnahmen, um Macht zu erlangen um
+Gerechtigkeit zu schaffen, sind akzeptabel.</p>
+<p>• Unmoralisch: Priorisierung des am wenigsten schädlichen Verhaltens
+zur Lösung eines Problems.</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: verschiedene Themen bewältigen, unvorbereitete Menschen auf
+der Straße mit provokanten Fragen herausfordern, polarisierende
+Casting-Interviews und -Debatten führen und Videos nach Wunsch
+bearbeiten, um viralen Ruhm und Geld auf Plattformen wie YouTube, TikTok
+und Instagram zu erzielen.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 61%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Wider-spruch</th>
+<th>Ende: Entwicklung einer Abstimmungs-App für Gleichberechtigung</th>
+<th rowspan="2"><p>• Moralisch: das am wenigsten schädliche Verhalten
+zur Erreichung der Gleichstellung.</p>
+<p>• Unmoralisch: Aufgrund der Gesellschaftsentscheidung in der
+App</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Diesen Inhalt ausdrucken und an Menschen auf der Straße zu
+verteilen oder ein breiteres Publikum erreichen, indem man mit
+kontroversen YouTube-Videos viral geht oder Taktiken anwendet, um es als
+Buch auf Plattformen wie Amazon zu einem Bestseller zu machen.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 31%" />
+<col style="width: 57%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Social-Media-Aktivismus</th>
+<th>Ende: Gerechtigkeit schaffen</th>
+<th rowspan="2"><p>• Moralisch: Social Media ist das am wenigsten
+schädliche Verhalten zur Erreichung der Gleichstellung.</p>
+<p>• Unmoralisch: Es gibt genug weniger schädliche Möglichkeiten, um die
+Ungleichheit zu bekämpfen, als Social-Media-Aktivismus, Debatten,
+Polarisierung und die Unterstützung von Unternehmen wie Google und
+YouTube, die Sanktionen gegen verarmte Länder verhängen. (192)</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: Inhalte in sozialen Medien erstellen, Online-Erfolg
+erzielen, indem man seine Konversationsfähigkeiten verfeinert, Sophistik
+anwendet und die kognitiven Fähigkeiten verbessert.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 51%" />
+<col style="width: 38%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Höheres Ziel durch TikTok</th>
+<th>Ende: Ungleichheit minimieren.</th>
+<th rowspan="2"><p>• Moralisch: Das am wenigsten schädliche Verhalten
+zur Erreichung der Gleichstellung.</p>
+<p>• Unmoralisch: Es gibt genug weniger schädliche Möglichkeiten, um die
+Ungleichheit zu bekämpfen</p></th>
+</tr>
+<tr class="odd">
+<th>Mittel: ein Buch über Gerechtigkeit schreiben und es bewerben und
+zum Bestseller auf Plattformen wie Spotify, YouTube, Instagram, Amazon,
+Twitter, TikTok und TV machen, und sogar Marketingtricks wie den
+Matthew-Effekt anwenden (141)</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>	
 
 7.	Warum überlegen ideologische Gruppen wie IRGC Quds, ISIS und Al-Qaida moderne Armeen?
 Entschlossenheit und ideologischen Motivation, Starke Werte und flexible Strukturen definieren solche Gruppen und stehen im Gegensatz zu den widersprüchlichen Moralvorstellungen hierarchischer moderner Armeen.
@@ -283,34 +590,100 @@ Beispiele
  
 
 5. Wahlbeispiel in einem Dorf mit 100 Einwohnern:
-Benutzer 76: Ist das Pflanzen von Bäumen notwendig, um der Trockenheit im Dorf entgegenzuwirken?
-↓
-Ja (63%)		Nein (37%)	 
-→Benutzer 4: Studie bestätigt die Rolle der Natur für die psychische Gesundheit und kommt Kindern zugute. (20 Stimmen)
-→Benutzer 74: Baumpflanzung: Kosten 30 €, Investition in das Wassersystem 100 €/Monat (geteilt durch 100 Personen). Lieber den Wald unterstützen. (20 Stimmen)
- 
-   →Benutzer 22: Vögel gedeihen in baumreichen Umgebungen. (12 Stimmen)
-→Benutzer 12: Das Pflanzen von Bäumen ist kostspielig und unsere derzeitige Baumzahl ist ausreichend. (17 Stimmen) 
-Ergebnis: 63 % haben dafür gestimmt
- 
-
-Welches Unternehmen?
-
-→Benutzer 14: Erschwingliche Baumpflanzung durch Firma XXX für 20 € pro Baum.
-→Benutzer 20: Umweltbewusste Unternehmen YYY berechnet 30 € pro Baum und vermeidet so Autos
-→ + Bieten Sie Ihre Empfehlungen an
-→Abstimmung abbrechen, Unternehmen konnte nicht gefunden werden.
-→Zeitverlängerung, um weitere Unternehmen zu finden
-
- 
-Ergebnis: Firma XXX ausgewählt. Bestellung automatisch erstellt und versendet.
- 
-Woche 1: Unternehmen XXX hat 25 % der Arbeiten abgeschlossen und fordert 25 % der Zahlung. Bilder und Videos sind verfügbar.
-•	Akzeptieren?  / Ablehnen?
-Woche 2: Unternehmen XXX hat 100 % abgeschlossen.
-•	Akzeptieren?  / Ablehnen?
-Nach jeder Annahme werden 10 € automatisch an Unternehmen XXX gesendet 
-Das System muss weiterentwickelt werden, kann aber effektiver sein als selbst Länder mit geringer Korruption wie Deutschland, den Niederlanden, Norwegen und Schweden, wo Korruption sowohl bei großen als auch bei kleineren Projekten wie Flughäfen auftreten kann.
+<p>Benutzer 76: Ist das Pflanzen von Bäumen notwendig, um der
+Trockenheit im Dorf entgegenzuwirken?</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Ja (63%)</strong></th>
+<th><strong>Nein (37%)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>→Benutzer 4: Studie bestätigt die Rolle der Natur für die psychische
+Gesundheit und kommt Kindern zugute. (20 Stimmen)</td>
+<td>→Benutzer 74: Baumpflanzung: Kosten 30 €, Investition in das
+Wassersystem 100 €/Monat (geteilt durch 100 Personen). Lieber den Wald
+unterstützen. (20 Stimmen)</td>
+</tr>
+<tr class="even">
+<td>→Benutzer 22: Vögel gedeihen in baumreichen Umgebungen. (12
+Stimmen)</td>
+<td>→Benutzer 12: Das Pflanzen von Bäumen ist kostspielig und unsere
+derzeitige Baumzahl ist ausreichend. (17 Stimmen)</td>
+</tr>
+</tbody>
+</table>
+<p>Ergebnis: 63 % haben dafür gestimmt</p>
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 77%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>→Benutzer 14: Erschwingliche Baumpflanzung durch Firma XXX für 20 €
+pro Baum.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>→Benutzer 20: Umweltbewusste Unternehmen YYY berechnet 30 € pro Baum
+und vermeidet so Autos</td>
+</tr>
+<tr class="even">
+<td>Welches Unternehmen?</td>
+<td>→ + Bieten Sie Ihre Empfehlungen an</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>→Abstimmung abbrechen, Unternehmen konnte nicht gefunden
+werden.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>→Zeitverlängerung, um weitere Unternehmen zu finden</td>
+</tr>
+</tbody>
+</table>
+<p>Ergebnis: Firma XXX ausgewählt. Bestellung automatisch erstellt und
+versendet.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Woche 1: Unternehmen XXX hat 25 % der Arbeiten abgeschlossen und
+fordert 25 % der Zahlung. Bilder und Videos sind verfügbar.</th>
+<th>Woche 2: Unternehmen XXX hat 100 % abgeschlossen.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><p>Akzeptieren? / Ablehnen?</p></li>
+</ul></td>
+<td><ul>
+<li><p>Akzeptieren? / Ablehnen?</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p>Nach jeder Annahme werden 10 € automatisch an Unternehmen XXX
+gesendet</p>
+<p>Das System muss weiterentwickelt werden, kann aber effektiver sein
+als selbst Länder mit geringer Korruption wie Deutschland, den
+Niederlanden, Norwegen und Schweden, wo Korruption sowohl bei großen als
+auch bei kleineren Projekten wie Flughäfen auftreten kann.</p>
  
 16.	Gibt es eine Möglichkeit, eine nicht-psychopathische Wirtschaft zu haben, ohne sich dem Kommunismus zuzuwenden?
  
