@@ -823,13 +823,5 @@ Bei 150 Freiwilligen werden Teilnahmeanweisungen per E-Mail verschickt. Ihr Beit
  
 -	Dieser Inhalt ist kostenlos. Wenn Sie die Papier-, Tinten- und Zeitkosten der Person bezahlen möchten, die Ihnen diese Kopie zur Verfügung gestellt hat:
 -	Eine Gruppe gründen, in der gemeinsam überlegt wird, wie man eine solche Plattform gründen kann?
-E-Mail: jmehr88@gmail.com
- 
-
- 
-Name: AJ Mehr
-IBAN: DE73500105175414887887
-Paypal: jmehr88@gmail.com
-Alternative Zahlungsmethoden per E-Mail. Jmehr88@gmail.com
-Berechnung der Vergütung: Wenn bei 8 Stunden täglicher Arbeit 1 von 48 angesprochenen Personen zahlt und jede Interaktion 10 Minuten dauert, wären 124 € pro Kopie erforderlich, basierend auf dem Mindestlohn von 12,5 € pro Stunde und den Druckkosten. Da dieser Preis für die meisten nicht erschwinglich ist, wäre jeder niedrigere Preis sogar 5€ akzeptabel.  
-
+paypal.me/volkswahl
+  
